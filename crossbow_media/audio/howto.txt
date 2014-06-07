@@ -1,0 +1,26 @@
+
+How to make .ad4 format:
+--------------------------
+
+convert audio file to 16 bit mono using Audacity (.wav works)
+
+32 KHz sample frequency, max!
+
+command line: AD4CONVERTER -E4 audio.wav
+
+
+
+also, double-click on AD4CONVERTER.EXE for help.
+
+
+
+
+
+numbers of sounds:
+0000 - not used, but needed for audio chip (can be anything)
+0001 fire
+0002 load
+0003 hit (hurt)
+0004 cooldown
+0005 death
+0006 start (first boot before startup sounds/slogans)
