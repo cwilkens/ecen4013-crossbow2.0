@@ -2,6 +2,7 @@ ecen4013-crossbow2.0
 ====================
 
 Arm-mounted laser tag crossbow with capacitive touch. Works with the MAGE system: http://mage.okstate.edu/
+
 This was our semester project for ECEN 4013 (Senior Design 1). The archive has the code and circuit diagrams.
 
 Quick demo:
